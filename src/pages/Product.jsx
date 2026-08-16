@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import {
   useGetProductQuery,
   useGetProductsQuery,
-} from "../features/products/productAPI";
+} from "../features/products/productApi";
 
 import Container from "../components/common/Container";
 import Loader from "../components/common/Loader";
