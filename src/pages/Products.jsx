@@ -9,7 +9,7 @@ import {
   X,
 } from "lucide-react";
 
-import { useGetProductsQuery } from "../features/products/productAPI";
+import { useGetProductsQuery } from "../features/products/productApi";
 
 import Container from "../components/common/Container";
 import Loader from "../components/common/Loader";
